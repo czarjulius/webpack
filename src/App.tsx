@@ -25,7 +25,7 @@ export const App = () => {
 
   return (
     <div className="container">
-      <img src="./assets/laughing.svg" alt="Laughing" />
+      {/* <img src="./assets/laughing.svg" alt="Laughing" /> */}
       <h3>Don't Laugh Challenge</h3>
       <div className="joke">{joke}</div>
       <button className="btn" onClick={handleGetAnotherJoke}>
