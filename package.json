@@ -1,5 +1,6 @@
 {
-  "name": "webpack-app",
+  "home": "http://czarjulius.github.io",
+  "name": "jokes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,6 +26,7 @@
     "@types/react-dom": "^18.0.8",
     "babel-loader": "^9.0.1",
     "css-loader": "^6.7.1",
+    "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "sass": "^1.56.0",
     "sass-loader": "^13.1.0",
